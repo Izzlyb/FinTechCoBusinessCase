@@ -109,6 +109,9 @@ Through 2022, the company has reached the management of $3.5 trillion in client 
 
 They recently announced a deeper integration with **Schwab** and a partnership with **Salesforce** to connect to their financial Services Cloud.
 
+## Recommendations
+
+The company is growing fast in quantity of clients and amount of assets under management. This is a good reason for **Addepar** to start getting more into the Web 3.0 environment. This implies start implementing start contracts to increase the security, transparency and availability of customer information and contracts. This also would create an additional service of providing cryptography to their clientele by extending the API that they already have. Moving the Web 3.0 would expand the amount and type of clientele, create additional income streams and would put **Addepar** even more in the leadership position of financial services.
 
 ## References
 
